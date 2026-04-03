@@ -1,0 +1,13 @@
+ultralytics
+torch
+torchvision
+torchaudio
+numpy
+opencv-python
+pillow
+matplotlib
+fastapi
+uvicorn
+python-multipart
+huggingface_hub
+requests

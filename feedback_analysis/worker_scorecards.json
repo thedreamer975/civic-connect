@@ -1,0 +1,112 @@
+[
+  {
+    "worker_id": "worker_1",
+    "avg_rating": 3.58,
+    "sentiment_distribution": {
+      "positive": 0.5436893203883495,
+      "neutral": 0.24757281553398058,
+      "negative": 0.2087378640776699
+    },
+    "top_issue_area": "default",
+    "suggestion": "Follow up with citizen, verify fix quality, and document action taken."
+  },
+  {
+    "worker_id": "worker_10",
+    "avg_rating": 3.8,
+    "sentiment_distribution": {
+      "positive": 0.5615763546798029,
+      "neutral": 0.27586206896551724,
+      "negative": 0.1625615763546798
+    },
+    "top_issue_area": "default",
+    "suggestion": "Follow up with citizen, verify fix quality, and document action taken."
+  },
+  {
+    "worker_id": "worker_2",
+    "avg_rating": 3.93,
+    "sentiment_distribution": {
+      "positive": 0.5981308411214953,
+      "neutral": 0.2897196261682243,
+      "negative": 0.11214953271028037
+    },
+    "top_issue_area": "default",
+    "suggestion": "Follow up with citizen, verify fix quality, and document action taken."
+  },
+  {
+    "worker_id": "worker_3",
+    "avg_rating": 3.83,
+    "sentiment_distribution": {
+      "positive": 0.5570776255707762,
+      "neutral": 0.2648401826484018,
+      "negative": 0.1780821917808219
+    },
+    "top_issue_area": "default",
+    "suggestion": "Follow up with citizen, verify fix quality, and document action taken."
+  },
+  {
+    "worker_id": "worker_4",
+    "avg_rating": 3.95,
+    "sentiment_distribution": {
+      "positive": 0.5806451612903226,
+      "neutral": 0.2849462365591398,
+      "negative": 0.13440860215053763
+    },
+    "top_issue_area": "default",
+    "suggestion": "Follow up with citizen, verify fix quality, and document action taken."
+  },
+  {
+    "worker_id": "worker_5",
+    "avg_rating": 3.77,
+    "sentiment_distribution": {
+      "positive": 0.5358851674641149,
+      "neutral": 0.291866028708134,
+      "negative": 0.1722488038277512
+    },
+    "top_issue_area": "default",
+    "suggestion": "Follow up with citizen, verify fix quality, and document action taken."
+  },
+  {
+    "worker_id": "worker_6",
+    "avg_rating": 3.81,
+    "sentiment_distribution": {
+      "positive": 0.5221674876847291,
+      "neutral": 0.3399014778325123,
+      "negative": 0.13793103448275862
+    },
+    "top_issue_area": "default",
+    "suggestion": "Follow up with citizen, verify fix quality, and document action taken."
+  },
+  {
+    "worker_id": "worker_7",
+    "avg_rating": 3.77,
+    "sentiment_distribution": {
+      "positive": 0.5130890052356021,
+      "neutral": 0.3403141361256545,
+      "negative": 0.14659685863874344
+    },
+    "top_issue_area": "default",
+    "suggestion": "Follow up with citizen, verify fix quality, and document action taken."
+  },
+  {
+    "worker_id": "worker_8",
+    "avg_rating": 3.87,
+    "sentiment_distribution": {
+      "positive": 0.510752688172043,
+      "neutral": 0.3709677419354839,
+      "negative": 0.11827956989247312
+    },
+    "top_issue_area": "default",
+    "suggestion": "Follow up with citizen, verify fix quality, and document action taken."
+  },
+  {
+    "worker_id": "worker_9",
+    "avg_rating": 3.8,
+    "sentiment_distribution": {
+      "positive": 0.5409836065573771,
+      "neutral": 0.25136612021857924,
+      "negative": 0.20765027322404372
+    },
+    "top_issue_area": "default",
+    "suggestion": "Follow up with citizen, verify fix quality, and document action taken."
+  }
+]

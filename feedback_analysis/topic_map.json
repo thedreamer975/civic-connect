@@ -1,0 +1,46 @@
+{
+  "0": {
+    "words": "was worker the clearly efficient fix explained and it regarding",
+    "label": "default"
+  },
+  "1": {
+    "words": "thanks timely staff resolution completed report nothing special work to",
+    "label": "timing"
+  },
+  "2": {
+    "words": "resolved standard service issue regarding it was safety quality reopened",
+    "label": "quality"
+  },
+  "3": {
+    "words": "average experience fixed problem the timing hours it regarding time",
+    "label": "timing"
+  },
+  "4": {
+    "words": "behavior satisfied slow rude not service and regarding it was",
+    "label": "communication"
+  },
+  "5": {
+    "words": "workmanship next came back poor day problem the timing it",
+    "label": "quality"
+  },
+  "6": {
+    "words": "unresolved arrived remains late the issue worker and risk safety",
+    "label": "safety"
+  },
+  "7": {
+    "words": "area long took clean too afterwards didn and the ",
+    "label": "default"
+  },
+  "8": {
+    "words": "safety problem great job very same solved professional day injury",
+    "label": "safety"
+  },
+  "9": {
+    "words": "afterwards area clean took long too didn regarding it quality",
+    "label": "default"
+  },
+  "10": {
+    "words": "reopened quality the quickly issue was fixed it regarding worker",
+    "label": "quality"
+  }
+}

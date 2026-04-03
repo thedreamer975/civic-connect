@@ -1,0 +1,6 @@
+flask
+twilio
+sentence-transformers
+faiss-cpu
+openai
+requests
